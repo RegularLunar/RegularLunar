@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regularlunar&label=Profile%20views&color=0e75b6&style=flat" alt="regularlunar" /> </p>
 
-- 🔭 I’m currently working on [QoL Mod for dbd]()
+- 🔭 I’m currently working on [QoL Mod for dbd](https://eclipsed.top/mods/8)
 
 - 🌱 I’m currently learning **Unreal Engine Modding**
 
