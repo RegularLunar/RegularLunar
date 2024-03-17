@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lunar</h1>
-<h3 align="center">18 Nothing to see here... O.o </h3>
+<h3 align="center">18, Nothing to see here... O.o </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regularlunar&label=Profile%20views&color=0e75b6&style=flat" alt="regularlunar" /> </p>
 
-- 🔭 I’m currently working on [QoL Mod for dbd](https://eclipsed.top/mods/8)
+- 🔭 I’m currently working on [Quality of Life Modpack for Dead By Daylight](https://eclipsed.top/mods/8)
 
 - 🌱 I’m currently learning **Unreal Engine Modding**
 
