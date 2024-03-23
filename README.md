@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Modding Games**
 
-- 📫 How to reach me **Discord: regularlunar**
+- 📫 You can reach me on **[Discord](https://discord.gg/d4AXRU8aGF)**
 
-- ⚡ Fun fact **I tend to mod/exploit**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5TRISN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
