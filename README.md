@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/RegularLunar?tab=repositories)
 
-- 💬 Ask me about **Modding Games**
-
 - 📫 You can reach me on **[Discord](https://discord.gg/d4AXRU8aGF)**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5TRISN)
