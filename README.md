@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regularlunar&label=Profile%20views&color=0e75b6&style=flat" alt="regularlunar" /> </p>
 
+
 - 🔭 I’m currently working on [Quality of Life Modpack for Dead By Daylight](https://github.com/RegularLunar/Quality-Of-Life)
 
 - 🌱 I’m currently learning **Unreal Engine Modding**
@@ -18,10 +19,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Youtube -->
-<a href="https://www.youtube.com/@regularlunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@regularlunar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@regularlunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@regularlunar" height="40" width="40" /></a>
 <!-- Discord -->
-<a href="https://discord.gg/d4AXRU8aGF" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="@regularlunar" height="30" width="40" />
+<a href="https://discord.gg/d4AXRU8aGF" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="@regularlunar" height="40" width="40" />
 </p>
+<!-- BMAC -->
+<a href="https://www.buymeacoffee.com/RegularLunar"><img src="https://img.buymeacoffee.com/button-api/?text=You can support me here!&emoji=&slug=RegularLunar&button_colour=804dff&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" height="40" width="250" /></a>
 
 <h3 align="left">Languages and programs that I use:</h3>
 <p align="left"> 
