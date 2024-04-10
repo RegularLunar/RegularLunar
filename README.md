@@ -21,7 +21,7 @@
 <!-- Youtube -->
 <a href="https://www.youtube.com/@regularlunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@regularlunar" height="40" width="40" /></a>
 <!-- Discord -->
-<a href="https://discord.gg/d4AXRU8aGF" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="@regularlunar" height="40" width="40" />
+<a href="https://discord.gg/mFAxKpT457" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="@regularlunar" height="40" width="40" />
 </p>
 <!-- BMAC -->
 <a href="https://www.buymeacoffee.com/RegularLunar"><img src="https://img.buymeacoffee.com/button-api/?text=You can support me here!&emoji=&slug=RegularLunar&button_colour=804dff&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" height="40" width="250" /></a>
