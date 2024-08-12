@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/RegularLunar?tab=repositories)
 
+- 🖥️ Check out my [website](https://regularlunar.pages.dev)!
+
 <!-- Soon to be Kofi <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/regularlunar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="regularlunar" /></a></p><br><br>
 -->
