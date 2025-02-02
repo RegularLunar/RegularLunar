@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regularlunar&label=Profile%20views&color=0e75b6&style=flat" alt="regularlunar" /> </p>
 
 
-- 🔭 I’m currently working on **Nothing ATM**
+- 🔭 I’m currently working on **Marvel Rivals Modding**
 
-- 🌱 I’m currently learning **[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)**
+- 🌱 I’m currently learning **[Tailwind CSS](https://tailwindcss.com)**
 
 - 🤝 I’m looking for help with [Unreal Engine](https://www.unrealengine.com/en-US)
 
