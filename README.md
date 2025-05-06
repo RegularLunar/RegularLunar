@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/RegularLunar?tab=repositories)
 
-- 🖥️ Check out my [website](https://regularlunar.pages.dev)!
+- 🖥️ Check out the rest of my [socials](https://fakecrime.bio/regularlunar)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
