@@ -1,35 +1,56 @@
-<h1 align="center">Hi 👋, I'm Lunar</h1>
-<h3 align="center">19, Nothing to see here... O.o </h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=regularlunar&label=Profile%20views&color=0e75b6&style=flat" alt="regularlunar" /> </p>
+I'm **Lunar**, a Blender & Unreal fanatic with full-stack programming skills. Welcome to my GitHub profile!
 
+## About Me
 
-- 🔭 I’m currently working on **Marvel Rivals Modding**
+I'm somewhat of a versatile & technical Artist & Developer specializing in real-time 3D pipelines and full-stack development. Core expertise in Blender for AAA-quality asset creation and Unreal Engine for immersive interactive experiences.
 
-- 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)**
+## Skills & Technologies
 
-- 🤝 I’m alwayts looking for help with [Unreal Engine](https://www.unrealengine.com/en-US)
+[![My Skills](https://skillicons.dev/icons?i=blender,unreal,git,ps,ai,visualstudio,vscode,cpp,cs,css,html,js,lua,rust,tailwind,pycharm&perline=8)](https://skillicons.dev)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/RegularLunar?tab=repositories)
+## Top Projects
 
-- 🖥️ Check out the rest of my [socials](https://xdp.lol/regularlunar)!
+[![**DBD-Character-IDS**](https://github-readme-stats.vercel.app/api/pin/?username=RegularLunar&repo=DBD-Character-IDS&theme=dark)](https://github.com/RegularLunar/DBD-Character-IDS)
+[![**MR-Character-IDS**](https://github-readme-stats.vercel.app/api/pin/?username=RegularLunar&repo=MR-Character-IDS&theme=dark)](https://github.com/RegularLunar/MR-Character-IDS)
 
-<h3 align="left">Connect with me:</h3>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegularLunar&show_icons=true&theme=radical)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5TRISN)
+## Connect with Me
 
-<h3 align="left">Languages and programs that I use:</h3>
-<p align="left"> 
-<!-- Blender -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<!-- Unreal Engine -->
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-<!-- Photoshop -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
+<a href="https://xdp.lol/regularlunar" target="_blank" rel="noopener noreferrer"><Icon /> Socials</a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regularlunar&theme=onedark" alt="regularlunar" /></a> </p>
+## 
+
+```
+             ________________________________________________
+            /                                                \
+           |    _________________________________________     |
+           |   |                                         |    |
+           |   |  lunar@kali-linux:~$ sudo rm -rf /*     |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
+           |   |_________________________________________|    |
+           |                                                  |
+            \_________________________________________________/
+                   \___________________________________/
+                ___________________________________________
+             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+       _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+    _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
+ _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
+:-------------------------------------------------------------------------:
+`---._.-------------------------------------------------------------._.---'
+```
