@@ -6,21 +6,15 @@
 
 - 🔭 I’m currently working on **Marvel Rivals Modding**
 
-- 🌱 I’m currently learning **[Tailwind CSS](https://tailwindcss.com)**
+- 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)**
 
-- 🤝 I’m looking for help with [Unreal Engine](https://www.unrealengine.com/en-US)
+- 🤝 I’m alwayts looking for help with [Unreal Engine](https://www.unrealengine.com/en-US)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/RegularLunar?tab=repositories)
 
-- 🖥️ Check out the rest of my [socials](https://fakecrime.bio/regularlunar)!
+- 🖥️ Check out the rest of my [socials](https://xdp.lol/regularlunar)!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Youtube -->
-<a href="https://www.youtube.com/@regularlunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@regularlunar" height="40" width="40" /></a>
-<!-- Discord -->
-<a href="https://discord.gg/mFAxKpT457" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="@regularlunar" height="40" width="40" />
-</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5TRISN)
 
