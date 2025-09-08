@@ -1,26 +1,26 @@
 ## Hi there! 👋
 
-I'm **Lunar**, a Blender & Unreal fanatic with full-stack programming skills. Welcome to my GitHub profile!
+I'm **Lunar**, a Blender & Unreal fanatic with a soon-to-be full-stack programming skills. Welcome to my GitHub profile!
 
-## About Me
+[![socials](https://img.shields.io/badge/SOCIALS-%231DA1F2.svg?style=for-the-badge)](https://xdp.lol/regularlunar)
 
-I'm somewhat of a versatile & technical Artist & Developer specializing in real-time 3D pipelines and full-stack development. Core expertise in Blender for AAA-quality asset creation and Unreal Engine for immersive interactive experiences.
+## Mastered Languages & Technologies:
 
-## Skills & Technologies
+[![Skills](https://skillicons.dev/icons?i=blender,unreal,git,visualstudio,vscode,css,html,ps,ai&perline=7&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=blender,unreal,git,ps,ai,visualstudio,vscode,cpp,cs,css,html,js,lua,rust,tailwind,pycharm&perline=8)](https://skillicons.dev)
+## Languages I am learning:
 
-## Top Projects
+[![Skills2](https://skillicons.dev/icons?i=cpp,cs,js,lua,rust,tailwind,py&perline=7&theme=dark)](https://skillicons.dev)
+
+## Top Projects:
 
 [![**DBD-Character-IDS**](https://github-readme-stats.vercel.app/api/pin/?username=RegularLunar&repo=DBD-Character-IDS&theme=dark)](https://github.com/RegularLunar/DBD-Character-IDS)
 [![**MR-Character-IDS**](https://github-readme-stats.vercel.app/api/pin/?username=RegularLunar&repo=MR-Character-IDS&theme=dark)](https://github.com/RegularLunar/MR-Character-IDS)
 
-## GitHub Stats
+## GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegularLunar&show_icons=true&theme=radical)
 
-## Connect with Me
-
-<a href="https://xdp.lol/regularlunar" target="_blank" rel="noopener noreferrer"><Icon /> Socials</a>
 
 ## 
 
