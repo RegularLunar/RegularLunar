@@ -6,7 +6,7 @@ I'm **Lunar**, a Blender & Unreal fanatic with a soon-to-be full-stack programmi
 
 ## Mastered Languages & Technologies:
 
-[![Skills](https://skillicons.dev/icons?i=blender,unreal,git,visualstudio,vscode,css,html,ps,ai&perline=7&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=blender,unreal,css,html,ps,ai&perline=7&theme=dark)](https://skillicons.dev)
 
 ## Languages I am learning:
 
