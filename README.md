@@ -1,8 +1,2 @@
-# Merged PRs:
-- https://github.com/iyre/bl4-save-tools/pull/24
-- https://github.com/iyre/bl4-save-tools/pull/19
-- https://github.com/iyre/bl4-save-tools/pull/1
-- https://github.com/Valthrun/valthrun-cs2/pull/228
-- https://github.com/Spuckwaffel/dumpspace/pull/1290
-- https://github.com/Spuckwaffel/dumpspace/pull/1293
-- https://github.com/Spuckwaffel/dumpspace/pull/1353
+![overview](https://github.com/user-attachments/assets/7f2ac0e3-c77b-4f6d-9f45-a1b5fd3c7026)
+![languages](https://github.com/user-attachments/assets/ce15646c-aa22-4957-80b7-3eadc4a807bf)
